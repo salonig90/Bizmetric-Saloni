@@ -1,10 +1,13 @@
 ## Repository File Overview:
 
-### 1.Bill.txt: This is the text file in which we are generating the bill from the code present in project file .
+### 1.Bill.txt: 
+This is the text file in which we are generating the bill from the code present in project file .
 ---
-### 2.Python assessment: This is the python assessment file containing questions on every topic. 
+### 2.Python assessment: 
+This is the python assessment file containing questions on every topic. 
 ---
-### 3.lc_lambda file: This the the file containing the list comprehension and lambda questions
+### 3.lc_lambda file: 
+This the the file containing the list comprehension and lambda questions
 ---
 ### 4.project file: In this I have created 2 projects first is Hotel Billing and second is College Fees Calculation. 
 
